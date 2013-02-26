@@ -27,12 +27,12 @@
 
 from distutils.core import setup
 setup(name='drapi',
-      version='2.0',
+      version='0.1',
       packages=['dexma'],
       description="DEXCell Energy Manager REST API for python",
       author='Xavier Orduña',
       author_email="xorduna@dexmatech.com",
-      url="https://github.com/xorduna/drapi/",
+      url="https://github.com/dexma/drapi/",
       classifiers = [
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
